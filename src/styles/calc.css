@@ -1,0 +1,22 @@
+body{
+    background-color: #e3e3e3;
+}
+.calc {
+    padding: 20px;
+    margin: 10px;
+    border: grey 5px;
+    background-color: #fff;
+}
+
+.display {
+    padding-bottom: 5px;
+}
+
+.result {
+    text-align: right;
+}
+
+button{
+    width: 36px;
+    height: 36px;
+}
